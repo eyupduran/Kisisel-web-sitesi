@@ -1,2 +1,2 @@
 # Kisisel-web-sitesi
-https://algoritim.herokuapp.com/eyupduran/
+https://softfes.herokuapp.com/eyupduran/
